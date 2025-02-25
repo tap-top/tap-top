@@ -1,5 +1,5 @@
 ### Hi there 👋
-我是tap-top，java coder，前端转的后端，对前端也有一定的了解。喜欢捣腾，生命不止，code不止。
+我是tap-top，java coder，生命不止，code不止。
 
 <!--
 **tap-top/tap-top** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
